@@ -1,0 +1,24 @@
+[
+    {
+    "nama": "Muhamad Luthfi Sadli",
+    "umur": 18,
+    "nrp": "023143541",
+    "lulus": false,
+    "hobby": ["coding", "gaming"],
+    "pembimbing": {
+        "pembimbing1": "Pak Ssandhika",
+        "pembimbing2": "Pak Jonni"
+    }
+}, 
+{
+    "nama": "Muhamad Luthfi Sadli",
+    "umur": 18,
+    "nrp": "023143541",
+    "lulus": false,
+    "hobby": ["coding", "gaming"],
+    "pembimbing": {
+        "pembimbing1": "Pak Ssandhika",
+        "pembimbing2": "Pak Jonni"
+    }
+}
+]
